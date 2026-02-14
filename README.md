@@ -8,6 +8,7 @@
 [![Documentation](https://img.shields.io/badge/view-documentation-blue)](https://docs.clice.io/clice/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/clice-io/clice)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/PA3UxW2VA3)
+[![SLOC](https://img.shields.io/badge/SLOC-32.7k-informational)](SLOC.md)
 
 clice is a next-generation language server designed for modern C++. Through excellent asynchronous task scheduling and intelligent caching, it achieves a lower memory footprint and faster response times.
 
